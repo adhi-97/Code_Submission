@@ -22,7 +22,7 @@ To train the model(s) in the paper, run this command:
 ```Run the model
 python run.py
 ```
-##Things to conside while running the code.
+### Things to conside while running the code.
 
 1. For BCI Competition IV 2a dataset:
   - current setting: 
